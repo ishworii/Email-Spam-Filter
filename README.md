@@ -63,5 +63,5 @@ This implementation could serve as a foundation for other probabilistic text cla
 
 - **Original Stream**: [Email Spam Filter in Go by Tsoding Daily](https://www.youtube.com/watch?v=JsfOXk7qmSM)
 - **Naive Bayes Classifier**: https://en.wikipedia.org/wiki/Naive_Bayes_classifier
-- **Tsoding's Implementation**: https://github.com/tsoding/vetcheena
+- **Tsoding's Haskell Implementation**: https://github.com/tsoding/vetcheena
 - **Enron Spam Dataset**: https://www2.aueb.gr/users/ion/data/enron-spam/
